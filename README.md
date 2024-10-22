@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning GitHub
+💬 Ask me about cats
 <!--
 **rice-cat/rice-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
